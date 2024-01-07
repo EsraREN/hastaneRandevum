@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hastanerandevum",
-    "slug": "hastanerandevum",
+    "name": "01-merhaba-react-native",
+    "slug": "snack-3ed30738-4a52-488d-88f9-24722c0dbef7",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "BSM 447 w04 A"
   }
 }
